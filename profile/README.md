@@ -29,4 +29,5 @@
     - `utils/imports.py`: Created for convenient imports.
     - `Topics/1_Preprocessing.ipynb`: Summarized common loading and preprocessing steps.
   - **ai-yana**
-    - 
+    - Created the repository.
+    - `Plan.md`: Planned for MVP.
