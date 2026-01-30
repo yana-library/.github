@@ -1,27 +1,32 @@
-# `ai-summary`
+# List of Repositories
+## ai-summary
 - Summary of theories and practices on AI.
-
-## Topics.
+- `/Topics`
   - `1_Preprocessing`
   - `2_Traditional_Models`
   - `3_Deep_Learning`
   - `4_Computer_Vision`
   - `5_NLP`
   - `6_RL`
-## Libraries.
+- `/Libraries`
   - `pandas`: data manipulation.
   - `sklearn`: traditional ML.
   - `plt`: visualization.
   - `torch`: deep learning framework.
   - `optuna`: hyperparameter optimization.
   - `hf`: NLP framework.
-## Utils.
+- `/utils`
   - `imports.py`: Collection of conventional imports.
 
-# History.
-## 2026-01-31.
+## ai-yana
+- A game with a simulated AI agent.
+
+# History
+## 2026-01-31
   - Opened the `yana-library`!
-  - Created and organized the **[ai-summary]**.
-  - **[ai-summary]**
+  - **ai-summary**
+    - Created and organized the repository.
     - `utils/imports.py`: Created for convenient imports.
     - `Topics/1_Preprocessing.ipynb`: Summarized common loading and preprocessing steps.
+  - **ai-yana**
+    - 
