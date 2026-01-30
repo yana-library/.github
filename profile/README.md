@@ -22,7 +22,7 @@
 - A game with a simulated AI agent.
 
 # History
-## 2026-01-31
+## [Day 1] 2026-01-31.
   - Opened the `yana-library`!
   - **ai-summary**
     - Created and organized the repository.
