@@ -34,14 +34,4 @@
   - Creat a simple application: a tilemap maden by `tiled`, key press-based movement and actions.
 ## [Day 2] 2026-02-01.
 - **ai-yana**
-  - Ticks and clock.
-  - Objects, items and inventory.
-  - Interactions and events.
-  
-# Plan.
-- **ai-yana**
-  - Needs.
-  - Path finding.
-  - Behavior.
-  - Chat interface.
-  - Revise and refactor the code.
+  - Total renewal of the starting map, `farming_01.tmx`.
