@@ -8,7 +8,7 @@
 ## ai-summary
 - Summary on AI/ML topics, including theories and practical examples.
 
-## ai-mlops
+## ai-deploy
 
 ## ai-research
 - Survey on the state-of-the-art trends.
